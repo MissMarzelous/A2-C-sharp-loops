@@ -1,0 +1,13 @@
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\obj\Debug\netcoreapp3.1\ForLoopexamples.csprojAssemblyReference.cache
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\obj\Debug\netcoreapp3.1\ForLoopexamples.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\obj\Debug\netcoreapp3.1\ForLoopexamples.AssemblyInfo.cs
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\obj\Debug\netcoreapp3.1\ForLoopexamples.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\bin\Debug\netcoreapp3.1\ForLoopexamples.exe
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\bin\Debug\netcoreapp3.1\ForLoopexamples.deps.json
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\bin\Debug\netcoreapp3.1\ForLoopexamples.runtimeconfig.json
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\bin\Debug\netcoreapp3.1\ForLoopexamples.runtimeconfig.dev.json
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\bin\Debug\netcoreapp3.1\ForLoopexamples.dll
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\bin\Debug\netcoreapp3.1\ForLoopexamples.pdb
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\obj\Debug\netcoreapp3.1\ForLoopexamples.dll
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\obj\Debug\netcoreapp3.1\ForLoopexamples.pdb
+C:\Users\marle\source\repos\C# class assgnmt2\ForLoopexamples\obj\Debug\netcoreapp3.1\ForLoopexamples.genruntimeconfig.cache

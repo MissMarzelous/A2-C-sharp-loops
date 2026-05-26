@@ -1,0 +1,14 @@
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\bin\Debug\netcoreapp3.1\Assignment2 _If_else.exe
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\bin\Debug\netcoreapp3.1\Assignment2 _If_else.deps.json
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\bin\Debug\netcoreapp3.1\Assignment2 _If_else.runtimeconfig.json
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\bin\Debug\netcoreapp3.1\Assignment2 _If_else.runtimeconfig.dev.json
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\bin\Debug\netcoreapp3.1\Assignment2 _If_else.dll
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\bin\Debug\netcoreapp3.1\Assignment2 _If_else.pdb
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\obj\Debug\netcoreapp3.1\Assignment2 _If_else.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\obj\Debug\netcoreapp3.1\Assignment2 _If_else.AssemblyInfo.cs
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\obj\Debug\netcoreapp3.1\Assignment2 _If_else.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\obj\Debug\netcoreapp3.1\Assignment2 _If_else.dll
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\obj\Debug\netcoreapp3.1\Assignment2 _If_else.pdb
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\obj\Debug\netcoreapp3.1\Assignment2 _If_else.genruntimeconfig.cache
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\obj\Debug\netcoreapp3.1\Assignment2 _If_else.csproj.AssemblyReference.cache
+C:\Users\marle\source\repos\C# class assgnmt2\Assignment2 _If_else\obj\Debug\netcoreapp3.1\Assignment2 _If_else.GeneratedMSBuildEditorConfig.editorconfig
