@@ -72,12 +72,14 @@ Would you like to calculate again? (y/n): y
 
 ## 📁 Folder Structure
 A2-C-sharp-loops/
-├── A2-C-sharp-loops/
-│   ├── Program.cs
-│   └── A2-C-sharp-loops.csproj
+├── Program1_IfElse.cs
+├── Program2_Switch.cs
+├── Program3_LoopExamples.cs
+├── A2-C-sharp-loops.csproj
 ├── .gitignore
-├── LICENSE
-└── README.md
+├── README.md
+└── LICENSE
+
 
 ---
 
