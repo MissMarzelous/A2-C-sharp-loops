@@ -2,103 +2,35 @@
 
 A C# (.NET Core 3.1) console application that demonstrates core control
 flow structures including `switch` statements, nested `if-else` blocks,
-`for` loops, and `do-while` loops, all within the context of a simple
-arithmetic calculator.
+`for` loops, and `do-while` loops. The project is split across three
+focused files, each highlighting a different concept.
 
 ---
 
 ## 📋 Features
 
-- Performs basic arithmetic: addition, subtraction, multiplication, division
-- Uses a `switch` statement to select the operation
-- Uses `do-while` to allow repeated calculations without restarting
-- Guards against division by zero with nested `if-else` validation
-- Demonstrates multiple loop types in a single application
+- **Program1_IfElse.cs** — arithmetic calculator using nested if-else statements
+- **Program2_Switch.cs** — same calculator rebuilt using a switch statement
+- **Program3_LoopExamples.cs** — standalone demonstrations of for, while, nested while, and do-while loops
+- Validates all numeric input — re-prompts instead of crashing on bad input
+- Validates operator input — re-prompts until a valid operator is entered
+- Guards against division by zero in both calculator programs
+- Each file focuses on one control flow concept for clear side-by-side comparison
 
 ---
 
 ## ⚙️ How It Works
 
-1. The user is presented with an arithmetic menu
-2. The user selects an operation using a number (1–4)
-3. The user enters two numbers
-4. The result is calculated and displayed
-5. The user is asked if they want to perform another calculation
-6. The loop continues until the user chooses to exit
+1. **Program1** — the user enters two numbers and an operator symbol; a chain
+   of nested if-else statements determines and prints the result
+2. **Program2** — the same input flow, but a switch statement handles the
+   operator matching; invalid operators re-prompt the user until a valid one
+   is entered
+3. **Program3** — no calculator; demonstrates four loop types with printed
+   output showing each loop's behavior step by step
 
 ---
 
 ## 💡 Example Usage
 
-=================================
-ARITHMETIC CALCULATOR
-
-Addition
-Subtraction
-Multiplication
-Division
-Exit
-=================================
-Select an option: 1
-Enter first number:  15
-Enter second number: 7
-Result: 15 + 7 = 22
-
-Would you like to calculate again? (y/n): y
-
----
-
-## 🛠️ Technologies Used
-
-| Technology    | Purpose                          |
-|---------------|----------------------------------|
-| C# 8.0        | Core programming language        |
-| .NET Core 3.1 | Runtime framework                |
-| Switch        | Menu-driven operation selection  |
-| Do-While Loop | Repeat until user exits          |
-| For Loop      | Iteration demonstrations         |
-
----
-
-## 🎓 Learning Outcomes
-
-- Using `switch` statements for menu-driven programs
-- Implementing `do-while` loops for "run at least once" logic
-- Using `for` loops for iterative tasks
-- Applying nested `if-else` for conditional validation
-- Handling edge cases like division by zero
-
----
-
-## 📁 Folder Structure
-A2-C-sharp-loops/
-├── Program1_IfElse.cs
-├── Program2_Switch.cs
-├── Program3_LoopExamples.cs
-├── A2-C-sharp-loops.csproj
-├── .gitignore
-├── README.md
-└── LICENSE
-
-
----
-
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/MissMarzelous/A2-C-sharp-loops.git
-cd A2-C-sharp-loops
-dotnet run
-```
-
----
-
-## 📸 Screenshots
-
-> _Screenshots coming soon._
-
----
-
-## 👩‍💻 Author
-
-**MissMarzelous** — C# .NET Core student project
+**Program1 & Program2 (calculator programs):**
