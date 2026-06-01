@@ -87,7 +87,7 @@ A2-C-sharp-loops/
 
 ```bash
 git clone https://github.com/MissMarzelous/A2-C-sharp-loops.git
-cd A2-C-sharp-loops/A2-C-sharp-loops
+cd A2-C-sharp-loops
 dotnet run
 ```
 
