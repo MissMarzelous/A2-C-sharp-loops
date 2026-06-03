@@ -22,7 +22,8 @@ focused files, each highlighting a different concept.
 ## ⚙️ How It Works
 
 1. **Program1** — the user enters two numbers and an operator symbol; a chain
-   of nested if-else statements determines and prints the result
+   of nested if-else statements determines and prints the result; invalid
+   operators re-prompt the user until a valid one is entered
 2. **Program2** — the same input flow, but a switch statement handles the
    operator matching; invalid operators re-prompt the user until a valid one
    is entered
