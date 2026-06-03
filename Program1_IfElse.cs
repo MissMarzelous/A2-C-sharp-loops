@@ -15,8 +15,8 @@ namespace Assignment2_IfElse
             double firstOperand  = ReadDouble("Enter first numeric value:  ");
             double secondOperand = ReadDouble("Enter second numeric value: ");
 
-            Console.Write("Enter a math operator (+, -, *, /): ");
-            string oprt = Console.ReadLine()?.Trim();
+            // Keep asking for an operator until a valid one is entered
+            string oprt = ReadOperator("Enter a math operator (+, -, *, /): ");
 
             // Nested if-else to determine which operation to perform
             if (oprt == "+")
@@ -33,8 +33,24 @@ namespace Assignment2_IfElse
                 else
                     Console.WriteLine($"\nDivision:       {firstOperand} / {secondOperand} = {firstOperand / secondOperand}");
             }
-            else
-                Console.WriteLine($"\nInvalid operator '{oprt}'. Please use +, -, *, or /.");
+        }
+
+        /// <summary>
+        /// Prompts the user for an operator and keeps asking until
+        /// one of the four valid operators is entered.
+        /// </summary>
+        static string ReadOperator(string prompt)
+        {
+            while (true)
+            {
+                Console.Write(prompt);
+                string input = Console.ReadLine()?.Trim();
+
+                if (input == "+" || input == "-" || input == "*" || input == "/")
+                    return input;
+
+                Console.WriteLine("  ⚠ Invalid operator. Please enter +, -, *, or /.\n");
+            }
         }
 
         /// <summary>
